@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Added",
+        "id": 1
+    },
+    {
+        "name": "Pending",
+        "id": 2
+    },
+    {
+        "name": "Accepted",
+        "id": 3
+    }
+]
